@@ -2,6 +2,8 @@
 
 This repository contains a data science solution to the Titanic Survivor Prediction problem, based on the Kaggle competition "Titanic: Machine Learning from Disaster." Below, you'll find an overview of the project, methodology, and steps to replicate the results.
 
+[Kaggle Notebook Link](https://www.kaggle.com/code/samuel0930/survival-analytics-titanic-disaster-case-study)
+
 ---
 
 ## Table of Contents
