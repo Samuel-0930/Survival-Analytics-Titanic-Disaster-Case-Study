@@ -8,10 +8,7 @@ This repository contains a data science solution to the Titanic Survivor Predict
 1. [Overview](#overview)
 2. [Project Framework](#project-framework)
 3. [Dataset](#dataset)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [References](#references)
+4. [Results](#results)
 
 ---
 
